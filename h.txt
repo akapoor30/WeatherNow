@@ -1,6 +1,7 @@
 cloud_pct
 feels_like
 humidity
+humidity2
 max_temp
 min_temp
 sunrise
